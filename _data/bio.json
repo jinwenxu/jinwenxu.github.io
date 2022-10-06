@@ -1,19 +1,17 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
-    "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "name": "Jinwen Xu",
+    "label": "PhD Candidate",
+    "picture": "https://media-exp1.licdn.com/dms/image/C5603AQGslWHjByVeTQ/profile-displayphoto-shrink_800_800/0/1516878422487?e=2147483647&v=beta&t=dDHBZb6WtlG48BwpQE4Fgl0R_XODI2BgrxvmT0nUQHg",
+    "email": "jinwenxu@usf.edu",
+    "phone": "xxx-xxx-xxxx",
+    "website": "https://jinwenxu.github.io",
+    "summary": "I am a PhD Candidate in Geography and Environmental Policy in the School of Geography at the University of South Florida. I expect to graduate in Spring, 2023.",
+    "location": { "address": "", "postalCode": "33620", "city": "Tampa", "countryCode": "USA", "region": "Florida" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
-    ]
+      { "network": "github", "username": "jinwenxu", "url": "http://github.com/changeme" },
+      { "network": "linkedin", "username": "jinwen-xu", "url": "http://linkedin.com/in/jinwen-xu" },
+      { "network": "twitter", "username": "Jinwen_X", "url": "http://twitter.com/Jinwen_X" }    ]
   },
   "interests": [
     { "name": "Interactive media" },

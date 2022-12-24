@@ -14,11 +14,14 @@
       { "network": "twitter", "username": "Jinwen_X", "url": "http://twitter.com/Jinwen_X" }    ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Geographical Information Science" },
+    { "name": "Disaster Resilience" },
+    { "name": "Natural Hazards" },
+    { "name": "Spatial Analysis and Modeling" },
+    { "name": "Social Media Mining" },
+    { "name": "Remote Sensing" },
+    { "name": "Urban Analytics" },
+    { "name": "Machine Learning" }
   ],
   "skills": [
     {

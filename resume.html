@@ -1,5 +1,5 @@
 ---
-title: Resume
+title: CV
 layout: home
 ---
 
@@ -80,12 +80,10 @@ layout: home
             <div class="col-9">
               <p class="m-0"><b>{{ entry.institution }}</b></p>
               <p class="m-0">{{ entry.studyType }}, {{ entry.area }}</p>
-              {% if entry.courses %}
-                <ul>
-                  {% for course in entry.courses %}
-                    <li>{{ course }}</li>
-                  {% endfor %}
-                </ul>
+              {% if entry.contents %}
+                {% for contents in entry.contents %}
+                  <li>{{ contents }}</li>
+                {% endfor %}
               {% endif %}
             </div>
           <div class="col-3">
@@ -102,6 +100,13 @@ layout: home
                 {% else %}
                   {{ entry.endDate }}
                 {% endif %}
+              {% endif %}
+            </p>
+            <p class="m-0 text-end">
+              {% if entry.gpa %}
+                GPA:
+                {{ entry.gpa }}
+                /4.0
               {% endif %}
             </p>
           </div>
